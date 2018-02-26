@@ -1,0 +1,6 @@
+I:\6 semester\humanoid\humanoid\bin\Debug\humanoid.exe.config
+I:\6 semester\humanoid\humanoid\bin\Debug\humanoid.exe
+I:\6 semester\humanoid\humanoid\bin\Debug\humanoid.pdb
+I:\6 semester\humanoid\humanoid\obj\Debug\humanoid.csprojResolveAssemblyReference.cache
+I:\6 semester\humanoid\humanoid\obj\Debug\humanoid.exe
+I:\6 semester\humanoid\humanoid\obj\Debug\humanoid.pdb
